@@ -1,0 +1,3 @@
+[submodule "stockphoto-models"]
+	path = stockphoto-models
+	url = git@github.com:kreativai/stockphoto-models.git
